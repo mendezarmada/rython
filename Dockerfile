@@ -1,5 +1,5 @@
  
-FROM python:3.9.0b3-buster
+FROM python:3.7.5
 
 LABEL org.label-schema.license="GPL-2.0" \
       org.label-schema.vcs-url="https://github.com/rocker-org/r-base" \
