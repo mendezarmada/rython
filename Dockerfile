@@ -1,4 +1,4 @@
-FROM python:3.9.0b3-buster
+FROM python:3.8.6-buster
 
 RUN apt-get -y update \
         && apt-get -y install \
